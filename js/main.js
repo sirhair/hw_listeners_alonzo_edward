@@ -36,3 +36,13 @@ function bgChange(){
 	}
 
 }
+
+//erase form js, when erase button is clicked, erase the form from DOM
+//sets erase click listener
+document.getElementById('eraseForm').addEventListener('click', eraseFunction);
+
+//erase form and replace with rr.com
+function eraseFunction(){
+	var eventInput= event.target;
+	eventInput.parentNode.innerHTML='<iframe width="640" height="480" src="https://www.youtube.com/embed/8qnQz8kxte0?start=18&autoplay=1" frameborder="0" allowfullscreen></iframe>';
+}
