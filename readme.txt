@@ -1,4 +1,13 @@
 URL:
-
+https://github.com/sirhair/hw_listeners_alonzo_edward.git
 Resources:
--
+-http://www.w3schools.com/js/js_htmldom_eventlistener.asp
+-http://www.w3schools.com/jsref/dom_obj_event.asp
+-http://www.w3schools.com/jsref/event_onblur.asp
+-http://www.w3schools.com/js/js_htmldom_css.asp
+-https://developer.mozilla.org/en-US/docs/Web/API/Element/getElementsByTagName
+-http://stackoverflow.com/questions/48239/getting-the-id-of-the-element-that-fired-an-event
+-http://www.w3schools.com/jsref/dom_obj_style.asp
+-http://www.w3schools.com/jsref/jsref_concat_array.asp
+-http://www.w3schools.com/jsref/prop_html_innerhtml.asp
+-http://www.business2community.com/youtube/embed-youtube-video-specific-start-time-01010991
