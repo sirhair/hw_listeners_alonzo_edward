@@ -6,20 +6,23 @@ body {
 	background-color: #D9BFF2;
 }
 
-.container {
+.container, iframe {
 	margin: 0 auto;
 	width:20rem;
 	padding-top: 1em
 }
+iframe{
+	height:15rem;
+}
 
 input, textarea {
 	width:15rem;
-	background-color: #efe5ff;
+	background-color: #aaaaaa;
+	margin-bottom: 1em;
 }
 
 label, #formsub{
 	display:block;
-	margin-top: 1em;
 	font-size: 1.15em;
 	font-weight: bold;
 }
