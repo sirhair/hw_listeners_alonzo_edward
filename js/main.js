@@ -1,4 +1,4 @@
-document.getElementById("formsub").addEventListener("click", function(event){
+document.getElementById("myForm").addEventListener("submit", function(event){
     event.preventDefault()
     var firstName =document.getElementsByName("firstName")[0].value;
     var lastName =document.getElementsByName("lastName")[0].value;
